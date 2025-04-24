@@ -68,7 +68,7 @@ You'll also find some tips and links to documentations that will help you comple
 **If I were to do this assignment again, I would:** (repeat as needed)
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20 ] out of 20.
 
 --------------------
 ## 📚 References and Citations
